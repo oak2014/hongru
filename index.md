@@ -1,3 +1,10 @@
+## Hello World
+
+Welcome to my site, it's a wonderful place for me :)
+
+===============================================================
+
+Below are some userful tips foe GitHub Pages:
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/oak2014/hongru/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
