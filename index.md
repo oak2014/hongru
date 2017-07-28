@@ -2,6 +2,8 @@
 
 Welcome to my site, it's a wonderful place for me :)
 
+What is Jekyll?
+
 ===============================================================
 
 Below are some userful tips foe GitHub Pages:
